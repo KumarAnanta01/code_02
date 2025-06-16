@@ -12,9 +12,7 @@ public class F5 {
         System.out.print("Input second number: ");
         int num2 = in.nextInt(); // This line was missing
 
-        //int result=(num1*num2);
 
         System.out.println(num1 + " x " + num2 + " = " + (num1 * num2));
-       // System.out.println("the result is :"+result);
     }
 }
